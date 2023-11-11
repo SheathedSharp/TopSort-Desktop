@@ -1,0 +1,5 @@
+sort ruselt_1:CS 100 CS 200 CS 250 CS 300 CS 350 
+---------------------
+sort ruselt_2:CS 100 CS 200 CS 250 CS 350 CS 300 
+---------------------
+sort ruselt_3:CS 100 CS 200 CS 300 CS 250 CS 350 
