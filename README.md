@@ -1,4 +1,17 @@
+<!--
+ * @Author: hiddenSharp429 z404878860@163.com
+ * @Date: 2024-06-06 13:02:56
+ * @LastEditors: hiddenSharp429 z404878860@163.com
+ * @LastEditTime: 2024-07-14 14:33:43
+ * @FilePath: /ToplogicalSort_app/README.md
+ * @Description: 
+-->
 # Desktop-portable-topological-sorting-application
+<div align="center">
+  
+  [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40hiddenSharp429-red)](https://github.com/hiddenSharp429/Desktop-portable-topological-sorting-application/blob/main/README_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40hiddenSharp429-blue)](https://github.com/hiddenSharp429/Desktop-portable-topological-sorting-application?tab=readme-ov-file)  
+  
+</div>
 
 ## Running Environment
 - **OS**: Mac
