@@ -1,0 +1,4 @@
+pyside2
+networkx
+matplotlib
+pyinstaller

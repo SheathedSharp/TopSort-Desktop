@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Topological_sort_app</class>
- <widget class="QMainWindow" name="Topological_sort_app">
+ <class>Desktop_Portable_Topological_Application</class>
+ <widget class="QMainWindow" name="Desktop_Portable_Topological_Application">
   <property name="enabled">
    <bool>true</bool>
   </property>
@@ -14,7 +14,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Topological_sort_app</string>
+   <string>Desktop Portable Topological Application</string>
   </property>
   <widget class="QWidget" name="widget">
    <widget class="QPushButton" name="generateButton">
@@ -168,7 +168,7 @@
      <x>0</x>
      <y>0</y>
      <width>914</width>
-     <height>25</height>
+     <height>37</height>
     </rect>
    </property>
    <property name="font">

@@ -69,7 +69,13 @@ class MainWindow:
             script_directory = os.path.dirname(os.path.abspath(__file__))
 
             # 构建调用命令
-            cpp_executable_path = os.path.join(script_directory, 'TopologicalSort.exe')
+            if os.name == 'nt':            # 判断操作系统
+                # Windows
+                cpp_executable_path = os.path.join(script_directory, 'TopologicalSort.exe')
+            else:
+                # Linux
+                cpp_executable_path = os.path.join(script_directory, 'TopologicalSort')
+
             command = f'"{cpp_executable_path}" "{file_path}"'
 
             # 调用外部程序

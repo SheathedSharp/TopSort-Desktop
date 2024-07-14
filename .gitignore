@@ -1,0 +1,12 @@
+
+.idea/
+
+build/
+
+core/__pycache__/
+
+.DS_Store
+
+package_script.txt
+
+main.spec

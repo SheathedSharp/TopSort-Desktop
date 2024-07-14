@@ -1,3 +1,0 @@
-pyinstaller main.py --noconsole --hidden-import networkx --hidden-import PySide2.QtXml --icon="statics/logo.ico" --add-data "statics;statics"
-
-pyinstaller main.py --noconsole --hidden-import networkx --hidden-import PySide2.QtXml --icon="statics/logo.ico" --add-data "statics;statics" --add-data "core/TopologicalSort.exe;core"
