@@ -35,19 +35,19 @@ TopologicalSort_app
 ## User Guide
 - Using the previously created environment, run the main file with the command `python main.py`.
 
-![Launch Application](https://pic.imgdb.cn/item/66936984d9c307b7e95ee99d.png)
+![Launch Application](./pic/1.png)
 
 - Select the file to import, or manually input data in a specified format to add.
 
-![Import Data](https://pic.imgdb.cn/item/66936987d9c307b7e95eed68.png)]
+![Import Data](./pic/2.png)
 
 - After completing the data input, click the `generate` button to perform the topological sorting.
 
-![Generate Topological Sort](https://pic.imgdb.cn/item/66936987d9c307b7e95eede8.png)
+![Generate Topological Sort](./pic/3.png)
 
 - The bottom left will display the result of the topological sort, and the right side will show the topological graph.
 - You can choose to export the topological result (.txt) or the topological graph (.png).
 
-![Topological Sort Result](https://pic.imgdb.cn/item/66936989d9c307b7e95eefdf.png)
+![Topological Sort Result](./pic/4.png)
 
-![Topological Graph](https://pic.imgdb.cn/item/66936989d9c307b7e95ef050.png)
+![Topological Graph](./pic/5.png)
