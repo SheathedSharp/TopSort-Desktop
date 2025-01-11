@@ -22,8 +22,8 @@ TopologicalSort_app
 
 
 ## 快速部署
-- 首先需要创建一个虚拟环境，输入命令`mamba create -n TSA python=3.9`，创建一个名为TSA的虚拟环境
-- 激活刚刚创建的虚拟环境，输入命令`conda activate TSA`
+- 首先需要创建一个虚拟环境，输入命令`mamba create -n "your-env-name" python=3.9`，创建一个名为"your-env-name"的虚拟环境
+- 激活刚刚创建的虚拟环境，输入命令`conda activate "your-env-name"`
 - 安装外部依赖，输入命令`mamba install --file requirements.txt`
 
 ## 使用指南
